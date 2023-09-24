@@ -37,7 +37,7 @@ Estou aberto a colaborações, discussões e novas oportunidades para crescer ju
 <h2>📈 Estatísticas do GitHub</h2>
 <p align="center">
   <a href="https://github.com/lranacleto85">
-    <img src="https://avatars.githubusercontent.com/u/135238872?s=96&v=4" alt="lranacleto85 GitHub streak"/>
+    <img align="center" alt="lranacleto-HTML" height="100" width="150" src= https://media.giphy.com/media/vEzWzSqe5e2Lzqskfi/giphy.gif alt="lranacleto85 GitHub streak"/>
   </a>
 </p>
 
