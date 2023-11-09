@@ -71,3 +71,6 @@ Estou aberto a colaborações, discussões e novas oportunidades para crescer ju
   <div>
 <h1>Vamos criar coisas incríveis juntos! 🚀</h1>
 </div>
+
+  ![Snake animation](https://github.com/lranacleto85/lranacleto85/blob/output/github-contribution-grid-snake.svg)
+).
