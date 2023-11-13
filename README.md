@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
 <h2>PT(BR)
 Olá Mundo!!!
 Bem-vindo ao meu Perfil no GitHub! 👋</h2>
@@ -7,16 +10,28 @@ Bem-vindo ao meu Perfil no GitHub! 👋</h2>
  Olá! Sou Leonardo Anacleto, apaixonado por tecnologia e comprometido com o aprendizado contínuo. 
 Estou sempre em busca de novas experiências e desafios para aprimorar minhas habilidades no mundo da programação.
     </div>
+</p>
 <h2>💼 Experiência</h2>
-Atualmente atuo na equipe de IT SES na Bosch Digital como Analista de Serviços de Ativação de Soluções de TI, sspecialista em Inovação, Qualidade e Eficiência Operacional.
-    </div>
+
+[<img align="left" height="94px" width="94px" alt="Bosch" src="https://media.licdn.com/dms/image/D4E0BAQEYwXVEKPcGOg/company-logo_200_200/0/1688974235204/boschdigital_logo?e=1707955200&v=beta&t=EhFs3c0CLQL1S6WNrOkXdskQ8YTvYHpfutvU716_w9k"/>](https://www.bosch.com.br)
+**IT Solution Enabling Services Analyst**  \
+[**Bosch Digital**](https://www.bosch.com.br) • Fulltime \
+Linguagens & Tecnologias: `Planisware`, `SAP`, `Jira`, `Excel`, `Quality Assurance`.\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Advice Ambiental" src="https://adviceambiental.com.br/wp-content/uploads/2023/03/ADVInsta-amb-sf.png"/>](https://adviceambiental.com.br/)
+**Environmental Consultant** \
+[Advice Ambiental](https://adviceambiental.com.br/) • Founder \
+Atividades: `Licenciamneto Amebiental`, `Outorgas`, `PGRS`\
+<br/>
+</div>
 <div>
 <h2>🌱 Atualmente Estou Aprendendo</h2>
 Estou focado em aprimorar minhas habilidades em Ciencia de dados e programação. 
 Estou animado para aprender e contribuir para projetos incríveis.
 </div>
     <div>
-<h2>🔧 Tecnologias e Ferramentas</h2>
+<h2>🔧 Minha Skills </h2>
     <div style="display: inline_block"><br>
   <img align="center" alt="lranacleto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lranacleto-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -28,13 +43,8 @@ Estou animado para aprender e contribuir para projetos incríveis.
   <img align="center" alt="lranacleto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="lranacleto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
-<div>
-<h2>🌟 Objetivo</h2>
-Meu objetivo é contribuir para a comunidade de desenvolvedores e aprender com os demais. 
-Estou aberto a colaborações, discussões e novas oportunidades para crescer juntos.
-</div>
   <div>
-<h2>📈 Estatísticas do GitHub</h2>
+<h2>📈 Meu GitHub</h2>
 <p align="center">
   <a href="https://github.com/lranacleto85">
     <img align="center" alt="lranacleto-HTML" height="100" width="150" src= https://media.giphy.com/media/vEzWzSqe5e2Lzqskfi/giphy.gif alt="lranacleto85 GitHub streak"/>
