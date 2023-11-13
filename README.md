@@ -78,7 +78,10 @@ Estou animado para aprender e contribuir para projetos incríveis.
 <div>
 <h3>🙏 Agradeço por visitar o meu perfil e por fazer parte dessa incrível comunidade de desenvolvedores.</h3> 
 </div>
-  <div>
-<h1>Vamos criar coisas incríveis juntos! 🚀</h1>
-</div>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/lranacleto85/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 
