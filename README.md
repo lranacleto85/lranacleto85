@@ -11,6 +11,7 @@ Bem-vindo ao meu Perfil no GitHub! 👋</h2>
 Estou sempre em busca de novas experiências e desafios para aprimorar minhas habilidades no mundo da programação.
     </div>
 </p>
+
 <h2>💼 Experiência</h2>
 
 [<img align="left" height="94px" width="94px" alt="Bosch" src="https://media.licdn.com/dms/image/D4E0BAQEYwXVEKPcGOg/company-logo_200_200/0/1688974235204/boschdigital_logo?e=1707955200&v=beta&t=EhFs3c0CLQL1S6WNrOkXdskQ8YTvYHpfutvU716_w9k"/>](https://www.bosch.com.br)
