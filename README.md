@@ -1,6 +1,3 @@
-<img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-
-<p align="left"> 
 <h2>PT(BR)
 Olá Mundo!!!
 Bem-vindo ao meu Perfil no GitHub! 👋</h2>
