@@ -10,7 +10,7 @@ Estou sempre em busca de novas experiências e desafios para aprimorar minhas ha
 
 <h2>💼 Experiência</h2>
 
-[<img align="left" height="94px" width="94px" alt="Bosch" src="https://logosmarcas.net/wp-content/uploads/2020/08/Bosch-Logo-650x366.png"/>](https://www.bosch.com.br)
+[<img align="left" height="94px" width="94px" alt="Bosch" src="https://avatars.githubusercontent.com/u/9215699?s=200&v=4"/>](https://www.bosch.com.br)
 **IT Solution Enabling Services Analyst**  \
 [**Bosch Digital**](https://www.bosch.com.br) • Fulltime \
 Linguagens & Tecnologias: `Planisware`, `SAP`, `Jira`, `Excel`, `Quality Assurance`.\
