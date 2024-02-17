@@ -1,6 +1,5 @@
 <h2>PT(BR)
-Olá Mundo!!!
-Bem-vindo ao meu Perfil no GitHub! 👋</h2>
+Olá Mundo!!!👋</h2>
 
 <h2>🚀 Sobre Mim</h2>
 <div>
