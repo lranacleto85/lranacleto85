@@ -4,28 +4,25 @@
 <div>
   Hello, I'm Leonardo Anacleto! 👨‍💻🌟 Technology enthusiast, passionate about problem-solving, and always seeking new challenges to enhance my skills.
 </div>
-<div>
+
 <h2>💼 Experience</h2>
 
 ### IT Solution Enabling Services Analyst
-[<img align="left" height="100px" width="100px" alt="Bosch" src="https://avatars.githubusercontent.com/u/9215699?s=200&v=4"/>](https://www.bosch.com.br)
-**Bosch Digital** • Fulltime \ 
- - Development and implementation of IT solutions to optimize internal processes.
- - Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
- - Effective project management using agile methodologies like `Jira`.
-</div>
-<div>
+[<img align="left" height="94px" width="94px" alt="Bosch" src="https://avatars.githubusercontent.com/u/9215699?s=200&v=4"/>](https://www.bosch.com.br)
+**Bosch Digital** • Fulltime \
+- Development and implementation of IT solutions to optimize internal processes.
+- Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
+- Effective project management using agile methodologies like `Jira`.
+
 ### Environmental Consultant
 [<img align="left" height="94px" width="94px" alt="Advice Ambiental" src="https://adviceambiental.com.br/wp-content/uploads/2023/03/ADVInsta-amb-sf.png"/>](https://adviceambiental.com.br/)
 **Advice Ambiental** • Founder \
- - Leadership in environmental consulting for companies, including environmental licensing and waste management.
- - Development and implementation of corporate sustainability strategies.
-</div>
-<div>
+- Leadership in environmental consulting for companies, including environmental licensing and waste management.
+- Development and implementation of corporate sustainability strategies.
+
 <h2>🌱 Currently Learning</h2>
 I'm focused on improving my skills in Data Science and Programming, always seeking new knowledge to apply in exciting and challenging projects.
-</div>
-<div>
+
 <h2>🔧 Skills</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="lranacleto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,13 +35,11 @@ I'm focused on improving my skills in Data Science and Programming, always seeki
   <img align="center" alt="lranacleto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="lranacleto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
-  
-  <div>
+
 <h2>🚀 Projects</h2>
 - [Project Name](link): A brief description.
 - [Project Name](link): A brief description.
-  </div>
-  
+
 <h2>📈 My GitHub</h2>
 <p align="center">
   <a href="https://github.com/lranacleto85">
@@ -87,6 +82,3 @@ I'm focused on improving my skills in Data Science and Programming, always seeki
     alt="Profile visitor count"
   />
 </p>
-
-</p>
-
