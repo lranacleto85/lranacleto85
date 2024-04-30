@@ -2,7 +2,8 @@
 
 <h2>🚀 About Me</h2>
 <div>
-  Hello, I'm Leonardo Anacleto! 👨‍💻🌟 Technology enthusiast, passionate about problem-solving, and always seeking new challenges to enhance my skills.
+  Hello, I'm Leonardo Anacleto! 
+  👨‍💻🌟 Technology enthusiast, passionate about problem-solving, and always seeking new challenges to enhance my skills.
 </div>
 
 <h2>💼 Experience</h2>
