@@ -10,15 +10,15 @@
 ### IT Solution Enabling Services Analyst
 [<img align="left" height="105px" width="105px" alt="Bosch" src="https://avatars.githubusercontent.com/u/9215699?s=200&v=4"/>](https://www.bosch.com.br)
 **Bosch Digital** • Fulltime \
-- Development and implementation of IT solutions to optimize internal processes.
-- Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
-- Effective project management using agile methodologies like `Jira`.
+  - Development and implementation of IT solutions to optimize internal processes.
+  - Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
+  - Effective project management using agile methodologies like `Jira`.
 
 ### Environmental Consultant
 [<img align="left" height="94px" width="94px" alt="Advice Ambiental" src="https://adviceambiental.com.br/wp-content/uploads/2023/03/ADVInsta-amb-sf.png"/>](https://adviceambiental.com.br/)
 **Advice Ambiental** • Founder \
-- Leadership in environmental consulting for companies, including environmental licensing and waste management.
-- Development and implementation of corporate sustainability strategies.
+  - Leadership in environmental consulting for companies, including environmental licensing and waste management.
+  - Development and implementation of corporate sustainability strategies.
 
 <h2>🌱 Currently Learning</h2>
 I'm focused on improving my skills in Data Science and Programming, always seeking new knowledge to apply in exciting and challenging projects.
