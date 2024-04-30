@@ -4,7 +4,7 @@
 <div>
   Hello, I'm Leonardo Anacleto! 👨‍💻🌟 Technology enthusiast, passionate about problem-solving, and always seeking new challenges to enhance my skills.
 </div>
-
+<div>
 <h2>💼 Experience</h2>
 
 ### IT Solution Enabling Services Analyst
@@ -13,28 +13,38 @@
  - Development and implementation of IT solutions to optimize internal processes.
  - Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
  - Effective project management using agile methodologies like `Jira`.
-
+</div>
+<div>
 ### Environmental Consultant
 [<img align="left" height="94px" width="94px" alt="Advice Ambiental" src="https://adviceambiental.com.br/wp-content/uploads/2023/03/ADVInsta-amb-sf.png"/>](https://adviceambiental.com.br/)
 **Advice Ambiental** • Founder \
  - Leadership in environmental consulting for companies, including environmental licensing and waste management.
  - Development and implementation of corporate sustainability strategies.
-
+</div>
+<div>
 <h2>🌱 Currently Learning</h2>
 I'm focused on improving my skills in Data Science and Programming, always seeking new knowledge to apply in exciting and challenging projects.
-
+</div>
+<div>
 <h2>🔧 Skills</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="lranacleto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lranacleto-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="lranacleto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="lranacleto-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="lranacleto-Planisware" height="30" width="40" src="https://planisware.com/themes/custom/planisware/logo.svg">
+  <img align="center" alt="lranacleto-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+  <img align="center" alt="lranacleto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="lranacleto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="lranacleto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
-
+  
+  <div>
 <h2>🚀 Projects</h2>
 - [Project Name](link): A brief description.
 - [Project Name](link): A brief description.
-
+  </div>
+  
 <h2>📈 My GitHub</h2>
 <p align="center">
   <a href="https://github.com/lranacleto85">
