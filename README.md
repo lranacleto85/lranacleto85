@@ -26,26 +26,28 @@ I'm focused on improving my skills in Data Science and Programming, always seeki
 
 ## My Skills 💻
 ### Data and Languages
-<code><img height="32" src="https://br.freepik.com/icone/pitao_5968350#fromView=search&page=1&position=0&uuid=544fc2eb-7d4b-42e2-8542-764a6cf8313f" alt="Python"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"/></code>
+<code><img height="32" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart"/></code>
 
 ### DevOps
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub"/></code>
 
-### Ferramentas de Desenvolvimento
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=cyan)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=cyan)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=cyan)
-![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=cyan)
+### Tools
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva"/></code>
 
 <h2>🚀 Projects</h2>
-- [Project Name](link): A brief description.
-- [Project Name](link): A brief description.
+![My Repositories]([https://img.shields.io/badge/)https://github.com/lranacleto85?tab=repositories](https://img.shields.io/badge/My%20repositories?style=flat-square&labelColor=Cian&link=https%3A%2F%2Fgithub.com%2Flranacleto85%3Ftab%3Drepositories
+)
 
 <h2>📈 My GitHub</h2>
 <p align="center">
