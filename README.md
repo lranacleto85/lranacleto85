@@ -26,7 +26,7 @@ I'm focused on improving my skills in Data Science and Programming, always seeki
 
 ## My Skills 💻
 ### Data and Languages
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png](https://br.freepik.com/icone/pitao_5968350#fromView=search&page=1&position=0&uuid=544fc2eb-7d4b-42e2-8542-764a6cf8313f)" alt="Python"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
