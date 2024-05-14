@@ -22,6 +22,7 @@
     - Development and implementation of corporate sustainability strategies.
 </div>
 
+
 <h2>🌱 Currently Learning</h2>
 <div>
 I'm focused on improving my skills in Data Science and Programming, always seeking new knowledge to apply in exciting and challenging projects.
