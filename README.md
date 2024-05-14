@@ -7,7 +7,7 @@ Hello, I'm Leonardo Anacleto!
 ## Experience 💼
 
 ### IT Solution Enabling Services Analyst
-[![Bosch](https://avatars.githubusercontent.com/u/9215699?s=200&v=4)](https://www.bosch.com.br)
+[![Bosch](https://avatars.githubusercontent.com/u/9215699?s=50)](https://www.bosch.com.br)
 **Bosch Digital** • Fulltime \
 - Development and implementation of IT solutions to optimize internal processes.
 - Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
@@ -41,6 +41,7 @@ I'm focused on improving my skills in Data Science and Programming, always seeki
 <div> 
   <a href="https://www.linkedin.com/in/lranacleto" target="_blank"><img src="link_to_linkedin_badge" target="_blank"></a> 
   <a href="mailto:lranacleto@gmail.com"><img src="link_to_gmail_badge" target="_blank"></a>
+  <!-- Add other badges here -->
 </div>
 <div>
   <h3>🤝 I'm always open for collaborations and new connections!</h3>
@@ -51,4 +52,3 @@ I'm focused on improving my skills in Data Science and Programming, always seeki
 <p align="center">
   <img src="https://profile-counter.glitch.me/lranacleto85/count.svg" alt="Profile visitor count"/>
 </p>
-
