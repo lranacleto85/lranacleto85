@@ -9,7 +9,7 @@
 <h2>💼 Experience</h2>
 <div>
 ### IT Solution Enabling Services Analyst
-[<img align="left" height="60px" width="60px" alt="Bosch" src="https://avatars.githubusercontent.com/u/9215699?s=200&v=4"/>](https://www.bosch.com.br)
+[<img align="left" height="60px" width="60px" alt="Bosch" src="https://avatars.githubusercontent.com/u/9215699?s=200&v=4"/>](https://www.bosch.com.br/)
 **Bosch Digital** • Fulltime \
     - Development and implementation of IT solutions to optimize internal processes.
     - Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
