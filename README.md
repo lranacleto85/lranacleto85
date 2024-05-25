@@ -9,11 +9,12 @@
 <h2>💼 Experience</h2>
 <div>
 <h3>IT Solution Enabling Services Analyst</h3>
-[<img align="left" height="60px" width="60px" alt="Bosch" src="https://pbs.twimg.com/media/FmB2DjGX0AEoOcj.jpg"/>(https://www.bosch.com.br/) 
+
+  [<img align="left" height="60px" width="60px" alt="Bosch Digital" src="https://pbs.twimg.com/media/FmB2DjGX0AEoOcj.jpg"/>](https://www.bosch.com.br/)
 **Bosch Digital** • Fulltime \
-    - Development and implementation of IT solutions to optimize internal processes.
-    - Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
-    - Effective project management using agile methodologies like `Jira`.
+  - Development and implementation of IT solutions to optimize internal processes.
+  - Collaboration on large-scale projects, utilizing tools such as `Planisware` and `SAP`.
+  - Effective project management using agile methodologies like `Jira`.
 
 ### Environmental Consultant
 [<img align="left" height="60px" width="60px" alt="Advice Ambiental" src="https://adviceambiental.com.br/wp-content/uploads/2023/03/ADVInsta-amb-sf.png"/>](https://adviceambiental.com.br/)
