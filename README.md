@@ -1,4 +1,4 @@
-<h2>Hello, World! 👋 I'm Leonardo Anacleto!</h2>
+<h1>Hello, World! 👋 I'm Leonardo Anacleto!</h1>
 
 <h2>🚀 About Me</h2>
 <div>
