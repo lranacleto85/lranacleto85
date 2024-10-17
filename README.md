@@ -56,12 +56,6 @@ I'm focused on improving my skills in Data Science and Programming, always seeki
 <div>
 <p align="center">
   <a href="https://github.com/lranacleto85">
-    <img align="center" alt="lranacleto-HTML" height="100" width="150" src= https://media.giphy.com/media/vEzWzSqe5e2Lzqskfi/giphy.gif alt="lranacleto85 GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/lranacleto85">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lranacleto85&theme=dracula" alt="lranacleto85's GitHub Contribution"/>
   </a>
 </p>
