@@ -62,16 +62,17 @@ In parallel, as the founder of **Advice Ambiental**, I connect these optimizatio
 ---
 ---
 
+---
+
 ## 📈 Metric Overview
 
 <div align="center">
 
 | 📊 GitHub Profile Summary | ⚡ Quick Stats & Top Languages |
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lranacleto85&theme=dracula" alt="Profile Details"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lranacleto85&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lranacleto85&layout=compact&theme=dracula" alt="Top Languages"/>
-</div>> 
+| :---: | :---: |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lranacleto85&theme=dracula" width="400" alt="Profile Details"/> 
+
+</div>
 
 ---
 
@@ -82,5 +83,4 @@ In parallel, as the founder of **Advice Ambiental**, I connect these optimizatio
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lranacleto85&color=blue&style=flat-square" alt="Visitor Counter"/>
 </p>
-
 
